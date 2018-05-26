@@ -6,3 +6,5 @@ Problem Link:
 4. https://leetcode.com/problems/sliding-window-maximum/description/
 5. https://leetcode.com/problems/sliding-window-median/description/
 6. https://leetcode.com/problems/minimum-window-substring/description/
+7. http://www.spoj.com/problems/BROKEN/
+8. http://codeforces.com/problemset/problem/701/C
