@@ -9,3 +9,4 @@ Problem Link:
 7. http://www.spoj.com/problems/BROKEN/
 8. http://codeforces.com/problemset/problem/701/C
 9. https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/description/
+10. https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2531 (Variant 2)
