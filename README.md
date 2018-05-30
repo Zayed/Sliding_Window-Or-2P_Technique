@@ -8,3 +8,4 @@ Problem Link:
 6. https://leetcode.com/problems/minimum-window-substring/description/
 7. http://www.spoj.com/problems/BROKEN/
 8. http://codeforces.com/problemset/problem/701/C
+9. https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/description/
